@@ -2,7 +2,7 @@
 
    <img src="assets/icons/app_icon-modified-2.png" alt="ShonenX Logo" width="120"/>
 
-# ShonenX
+# ShonenX`n`n<p align="center">`n  <a href="https://github.com/sponsors/anshdeepofficial"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="40" /></a>`n  <a href="https://buymeacoffee.com/anshdeepofficial"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40" /></a>`n</p>
 
 ### A Modern AniList & MyAnimeList Client
 
@@ -254,10 +254,3 @@ Apache 2.0 License - see [LICENSE](LICENSE.md) file.
 **Made with ❤️ by [Roshan Kumar](https://github.com/roshancodespace)**
 
 </div>
-
-## Support Development
-
-This project is free and open source. If you find it useful, you can support continued development through:
-
-- [GitHub Sponsors](https://github.com/sponsors/anshdeepofficial)
-- [Buy Me a Coffee](https://buymeacoffee.com/anshdeepofficial)
